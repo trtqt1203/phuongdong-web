@@ -1,0 +1,7 @@
+.next/
+node_modules/
+.env.local
+data/*.sqlite
+data/*.sqlite-*
+backups/
+test-*.png
